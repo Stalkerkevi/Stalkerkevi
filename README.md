@@ -2,7 +2,7 @@
  
 My name is **Kevin**, 22 years old, I am a full stack developer, passionate about IT and new technologies.
 
-## Language and tools
+## Languages
 - **HTML5** / **CSS3** | Bootstrap, CSS
 - **JavaScript** / **NodeJS** | VueJS, ReactJS
 - **Java** | Spigot, PaperMC, JEE
