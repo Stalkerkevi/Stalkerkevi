@@ -1,6 +1,6 @@
 # Hello dear stranger
  
-My name is **Kevin**, 23 years old, I am a full stack developer, passionate about IT and new technologies.
+My name is **Kevin**, 24 years old, I am a full stack developer, passionate about IT and new technologies.
 
 ## Languages
 - **HTML5** / **CSS3** | Bootstrap, CSS
