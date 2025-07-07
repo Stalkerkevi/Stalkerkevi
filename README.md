@@ -6,7 +6,7 @@ My name is **Kevin**, 24 years old, I am a full stack developer, passionate abou
 - **HTML5** / **CSS3** | Bootstrap, CSS
 - **Java** | Spigot, PaperMC, JEE
 
-- **SQL** | PostgreSQL, MySQL, MariaDB, MangoDB
+- **SQL** | PostgreSQL, MySQL, MariaDB, MongoDB
 
 - **Kotlin**
 
