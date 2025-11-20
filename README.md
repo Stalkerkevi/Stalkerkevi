@@ -25,7 +25,7 @@ My name is **Kevin**, 24 years old, I am a full stack developer, passionate abou
 
 ## Find Me
 
- - Twitter - [@kevinnn54](https://twitter.com/kevinn54)
+ - Twitter - [@kevinnn54](https://twitter.com/kevinnn54)
  - Linkedin - https://www.linkedin.com/in/kevin-kouadio-1815091b5
 
 ## Contact me
